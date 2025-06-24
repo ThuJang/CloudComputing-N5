@@ -1,0 +1,67 @@
+2025-06-04T09:42:59+00:00 INFO Checking permissions.
+2025-06-04T09:42:59+00:00 INFO Processing form submission.
+2025-06-04T09:42:59+00:00 INFO Form data receiving
+2025-06-04T09:42:59+00:00 INFO Form data received
+2025-06-04T09:42:59+00:00 INFO Getting the form fields
+2025-06-04T09:42:59+00:00 INFO Form fields received
+2025-06-04T09:42:59+00:00 INFO Organizing the form data.
+2025-06-04T09:42:59+00:00 INFO Form data organized.
+2025-06-04T09:42:59+00:00 INFO Getting response
+2025-06-04T09:42:59+00:00 INFO Response received
+2025-06-04T09:42:59+00:00 INFO Validating form data
+2025-06-04T09:42:59+00:00 INFO Form data validated
+2025-06-04T09:42:59+00:00 INFO Inserting User
+2025-06-04T09:42:59+00:00 INFO Inserting user meta data
+2025-06-04T09:42:59+00:00 INFO User meta data updated
+2025-06-04T09:42:59+00:00 INFO User insert successfully
+2025-06-04T09:42:59+00:00 INFO Processing form data
+2025-06-04T09:42:59+00:00 INFO Triggering user registration hooks
+2025-06-04T09:43:03+00:00 INFO User registration process completed.
+2025-06-04T10:43:18+00:00 INFO Checking permissions.
+2025-06-04T10:43:18+00:00 INFO Processing form submission.
+2025-06-04T10:43:18+00:00 INFO Form data receiving
+2025-06-04T10:43:18+00:00 INFO Form data received
+2025-06-04T10:43:18+00:00 INFO Getting the form fields
+2025-06-04T10:43:18+00:00 INFO Form fields received
+2025-06-04T10:43:18+00:00 INFO Organizing the form data.
+2025-06-04T10:43:18+00:00 INFO Form data organized.
+2025-06-04T10:43:18+00:00 INFO Getting response
+2025-06-04T10:43:18+00:00 INFO Response received
+2025-06-04T10:43:31+00:00 INFO Checking permissions.
+2025-06-04T10:43:31+00:00 INFO Processing form submission.
+2025-06-04T10:43:31+00:00 INFO Form data receiving
+2025-06-04T10:43:31+00:00 INFO Form data received
+2025-06-04T10:43:31+00:00 INFO Getting the form fields
+2025-06-04T10:43:31+00:00 INFO Form fields received
+2025-06-04T10:43:31+00:00 INFO Organizing the form data.
+2025-06-04T10:43:31+00:00 INFO Form data organized.
+2025-06-04T10:43:31+00:00 INFO Getting response
+2025-06-04T10:43:31+00:00 INFO Response received
+2025-06-04T10:43:31+00:00 INFO Validating form data
+2025-06-04T10:43:31+00:00 INFO Form data validated
+2025-06-04T10:43:31+00:00 INFO Inserting User
+2025-06-04T10:43:32+00:00 INFO Inserting user meta data
+2025-06-04T10:43:32+00:00 INFO User meta data updated
+2025-06-04T10:43:32+00:00 INFO User insert successfully
+2025-06-04T10:43:32+00:00 INFO Processing form data
+2025-06-04T10:43:32+00:00 INFO Triggering user registration hooks
+2025-06-04T10:43:35+00:00 INFO User registration process completed.
+2025-06-04T10:49:22+00:00 INFO Checking permissions.
+2025-06-04T10:49:22+00:00 INFO Processing form submission.
+2025-06-04T10:49:22+00:00 INFO Form data receiving
+2025-06-04T10:49:22+00:00 INFO Form data received
+2025-06-04T10:49:22+00:00 INFO Getting the form fields
+2025-06-04T10:49:22+00:00 INFO Form fields received
+2025-06-04T10:49:22+00:00 INFO Organizing the form data.
+2025-06-04T10:49:22+00:00 INFO Form data organized.
+2025-06-04T10:49:22+00:00 INFO Getting response
+2025-06-04T10:49:22+00:00 INFO Response received
+2025-06-04T10:49:22+00:00 INFO Validating form data
+2025-06-04T10:49:22+00:00 INFO Form data validated
+2025-06-04T10:49:22+00:00 INFO Inserting User
+2025-06-04T10:49:23+00:00 INFO Inserting user meta data
+2025-06-04T10:49:23+00:00 INFO User meta data updated
+2025-06-04T10:49:23+00:00 INFO User insert successfully
+2025-06-04T10:49:23+00:00 INFO Processing form data
+2025-06-04T10:49:23+00:00 INFO Triggering user registration hooks
+2025-06-04T10:49:24+00:00 INFO User registration process completed.

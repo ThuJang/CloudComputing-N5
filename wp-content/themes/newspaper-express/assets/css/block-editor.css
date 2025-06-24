@@ -1,0 +1,16 @@
+
+@media only screen and (max-width: 599px) { 
+	.superbthemes-navigation-four-bottom nav {
+		justify-content: center !important;
+	}
+}
+
+.superbthemes-navigation-four-wrapper nav .wp-block-navigation__responsive-container.is-menu-open,
+.superbthemes-navigation-four-wrapper .wp-block-navigation__responsive-container-content ul li.has-child ul {
+    background: white !important;
+    color: black !important;
+}
+
+.superbthemes-navigation-four-wrapper .wp-block-navigation__responsive-container-content .has-child .wp-block-navigation__submenu-container * {
+color: black !important;	
+}
